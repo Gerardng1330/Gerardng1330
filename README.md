@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Gerardng1330
+- 👀 I’m interested in learning new things and exploring new technologies
+- 🌱 I’m currently learning Angular
+- ⚡ Fun fact: I like table tennis 
