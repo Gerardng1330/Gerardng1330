@@ -1,3 +1,1 @@
-- 👀 I’m interested in learning new things and exploring new technologies
-- 🌱 I’m currently learning Angular and Astro
-- ⚡ Fun fact: I like table tennis 
+
